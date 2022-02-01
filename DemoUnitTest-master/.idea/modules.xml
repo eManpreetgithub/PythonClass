@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DemoUnitTest-master.iml" filepath="$PROJECT_DIR$/.idea/DemoUnitTest-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DisellCoCloud/.idea/DisellCoCloud.iml" filepath="$PROJECT_DIR$/../DisellCoCloud/.idea/DisellCoCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProjectSelenium/.idea/pythonProjectSelenium.iml" filepath="$PROJECT_DIR$/../pythonProjectSelenium/.idea/pythonProjectSelenium.iml" />
+    </modules>
+  </component>
+</project>
